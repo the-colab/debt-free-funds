@@ -1904,3 +1904,16 @@ footer .row {
 
 
 /**Footer css end here**/
+
+/* image */
+.image3{
+position: absolute;
+width: 685px;
+height: 543px;
+left: 594px;
+top: 125px;
+
+background-image: url(../images/backgroundImages/aboutUs.jpg);
+}
+
+
